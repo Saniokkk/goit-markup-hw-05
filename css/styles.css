@@ -727,17 +727,12 @@ img {
 
 .btn-close {
   position: absolute;
-  top: 0;
-  right: 0;
-  padding: 0;
-  margin: 0;
-  border: none;
-}
-
-.close-icon {
-  position: absolute;
   top: 8px;
   right: 8px;
   width: 30px;
   height: 30px;
+  border-radius: 50%;
+  padding: 0;
+  margin: 0;
+  border: none;
 }
